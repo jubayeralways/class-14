@@ -1,0 +1,5 @@
+font-family: "Poppins", serif;
+
+font-family: "Nunito", serif;
+
+font-family: "Open Sans", serif;

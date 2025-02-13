@@ -1,0 +1,220 @@
+/* all common css start  */
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+a,a:hover{
+  text-decoration: none;
+  display: inline-block;
+}
+ul,ol{
+  list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+.navbar{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.nav-link{
+  font-family: "Open Sans", serif;
+  color: #29313D;
+  font-size: 18px;
+  font-weight: 600;
+}
+.contactbtn{
+  
+
+padding: 14px 28px 14px 28px;
+gap: 10px;
+border-radius: 28px 28px 28px 28px;
+
+background: #8454F5;
+color: aliceblue;
+}
+/* all common css end */
+/* banner part start  */
+.bannerpart{
+  padding-top: 270px;
+  padding-bottom: 250px;
+}
+.bannerpart{
+  width: 100%;
+  height: 850px;
+ background: url(../images/476718043_1157596876072414_8359139871340608050_n.jpg);
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+
+}
+.bannertext h1{
+  font-family: "Open Sans", serif;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 60px;
+  color: #1d354f;
+
+}
+.bannertext p{
+  font-family: "Nunito", serif;
+font-weight: 400;
+font-size: 18px;
+line-height: 200%;
+padding-top: 30px;
+padding-bottom: 65px;
+color: #29313D;
+padding-right: 20px;
+
+}
+
+/* banner part end */
+
+/* service part start  */
+#servicepart{
+  padding: 115px 0;
+}
+.commontittle h3{
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 48px;
+color: #29313D;
+}
+.serviceitem{
+  padding: 30px 20px;
+  transition: .4s;
+}
+.serviceitem h3{
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 28px;
+color: #29313D;
+padding: 20px 0;
+margin-top: 50px;
+}
+.serviceitem p{
+  font-family: "Nunito", serif;
+font-weight: 400;
+font-size: 17px;
+color: #29313D;
+line-height: 150%;
+padding-bottom: 25px;
+}
+.serviceitem a{
+  font-family: "Nunito", serif;
+font-weight: 700;
+font-size: 16px;
+color: #29313D;
+
+}
+.serviceitem:hover{
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+-moz-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+
+}
+.cmt{
+  margin-top: 50px;
+
+}
+/* service part end */
+
+/* app launch part start  */
+#applaunch-part{
+  padding-top: 100px;
+  padding-bottom: 120px;
+
+}
+.mainimg img{
+  height: 500px;
+} 
+.mainimg{
+  position: relative;
+  width: 100%;
+}
+/* .fontimg img{
+  height: 620px;
+  width: 304px;
+  margin: 0 auto;
+} */
+
+.fontimg img{
+  position: absolute;
+left: 50%;
+  top: -25px;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  height: 100%;
+  
+}
+.applaunchright{
+  padding-left: 15px;
+}
+
+.applaunchright h3{
+  padding-right: 119px;
+  line-height: 44px;
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 48px;
+
+
+
+}
+.applaunchright p{
+  font-family: "Nunito", serif;
+padding-right: 365px;
+  line-height: 28px;
+font-weight: 400;
+font-size: 18px;
+
+
+}
+/* .row img{
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+} */
+.row h3{
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 28px;
+color: #29313D;
+padding: 20px 0;
+margin-top: 50px;
+}
+.row p{
+  font-family: "Nunito", serif;
+font-weight: 400;
+font-size: 17px;
+color: #29313D;
+line-height: 150%;
+padding-bottom: 25px;
+}
+.row a{
+  
+  font-family: "Nunito", serif;
+font-weight: 400;
+font-size: 17px;
+color: #29313D;
+line-height: 150%;
+padding-bottom: 25px;
+}
+
+
+/* app launch part end */
+
+/* header part start  */
+/* header part end */
+
+/* header part start  */
+/* header part end */
