@@ -1,0 +1,65 @@
+// Extra large devices
+@media (min-width: 1200px) {}
+// Large devices
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+// Medium devices
+@media (min-width: 768px) and (max-width: 991.98px) {}
+// Small devices
+@media (min-width: 576px) and (max-width: 767.98px) {}
+// Extra small devices
+@media (max-width: 575.98px) {
+  
+
+  #banner {
+    padding-top: 80px;
+    padding-bottom: 40px;
+  }
+
+  .bannertext h1{
+    font-family: "Open Sans", serif;
+  
+    font-size: 64px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .bannertext p{
+    line-height: 190%;
+  }
+  .bannertext{
+    text-align: center;
+  }
+  .applaunchright p{
+  font-family: "Nunito", serif;
+font-weight: 400;
+font-size: 17px;
+color: #29313D;
+line-height: 150%;
+padding-bottom: 25px;
+}
+.applaunchright h3{
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 28px;
+  color: #29313D;
+  padding: 1px 0;
+  margin-top: 17px;
+  margin-bottom: 30px;
+}
+.row h3 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 28px;
+  color: #29313D;
+  padding: 20px 0;
+  margin-top: -7px;
+}
+.prboneItem{
+  justify-content: space-around;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+}
+
+
+
+

@@ -117,8 +117,8 @@ color: #29313D;
   -webkit-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
 -moz-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
 box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
-
 }
+/* one  */
 .cmt{
   margin-top: 50px;
 
@@ -171,12 +171,12 @@ font-size: 48px;
 
 }
 .applaunchright p{
-  font-family: "Nunito", serif;
-padding-right: 365px;
-  line-height: 28px;
-font-weight: 400;
-font-size: 18px;
-
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 28px;
+color: #29313D;
+padding: 20px 0;
+margin-top: 50px;
 
 }
 /* .row img{
@@ -209,9 +209,119 @@ color: #29313D;
 line-height: 150%;
 padding-bottom: 25px;
 }
-
-
 /* app launch part end */
+.PRB-text h3{
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 48px;
+line-height: 67.2px;
+
+
+}
+#prbone{
+  padding: 100px 0;
+}
+.prboneItem{
+  width: 210px;height: 90px;
+  background: #F3F7FD;
+  padding: 25px;
+}
+.prbflex{
+  justify-content: space-between;
+}
+.prboneItem{
+  width: 210;
+height: 110;
+top: 4840px;
+left: 1457px;
+border-radius: 30px;
+
+}
+.commontext{
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 48px;
+line-height: 67.2px;
+
+
+
+}
+.trail-Item{
+  width: 450;
+height: 611;
+top: 5465px;
+left: 255px;
+border-radius: 30px;
+background: white;
+
+}
+.rowflex{
+  justify-content: space-between;
+}
+
+/* .trail-Item:hover{
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+-moz-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+}
+.trail-Item h5{
+  font-family: "Poppins", serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+
+width: 55;
+height: 28;
+top: 5493px;
+left: 453px;
+
+
+}
+.trail-Item h3{
+  font-family: "Poppins", serif;
+font-weight: 600;
+font-size: 48px;
+line-height: 67.2px;
+
+}
+.trail-Item{
+  width: 450;
+padding: 100px 0;
+top: 5465px;
+left: 255px;
+border-radius: 30px;
+
+}
+.btn{
+  text-align: center;
+  width: 174;
+height: 64;
+top: 5568px;
+left: 503px;
+border-radius: 20px;
+background: #6A55EA;
+;
+
+} */
+
+.trail-Item{
+  justify-content: space-between;
+}
+.trail-Item{
+  background: #8454F5;
+  width: 450;
+height: 611;
+top: 5465px;
+left: 255px;
+border-radius: 30px;
+
+}
+
+
+
+
 
 /* header part start  */
 /* header part end */
